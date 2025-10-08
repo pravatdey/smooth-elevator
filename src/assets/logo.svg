@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 320 80">
+  <rect width="320" height="80" rx="14" fill="#0b5fff"/>
+  <text x="20" y="50" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="36">Smooth</text>
+  <text x="160" y="50" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="26">Elevator</text>
+</svg>
